@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: crawler_wade
+Version: 0.0.1
+Summary: test
+Author: wadelee
+Author-email: w24810@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Description-Content-Type: text/markdown
+
+# NJR201
+課程練習
+
+- 分散式爬蟲: Producer -> Rabbitmq / Flower -> Crawler  
+- API: Crawler -> MySQL -> API  
+- Dashboard: Crawler -> MySQL -> Redash  
+- Scheduler: Airflow -> Crawler / Producer
+
